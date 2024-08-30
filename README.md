@@ -1,4 +1,5 @@
 # GamePublish
 A template repository to publish games
 
-[Player Scene](player_scene)
+[Player Scene 8/28](player_scene)
+[Player Scene 8/30](player_scene_8_30/)
