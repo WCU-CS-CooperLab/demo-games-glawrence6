@@ -3,10 +3,11 @@ A template repository to publish games
   
 ## In class  
 ### Coin Dash  
-[Player Scene 8/28](player_scene)  
-[Player Scene 8/30](player_scene_8_30/)  
-[Main Scene 9/4](main_scene_9_4)  
-[Main Scene 9/6](main_scene_9_6)  
-[Main Scene Finished 9/6](main_scene_9_6_fin)  
+[Player Scene 8/28](coin-dash/player_scene)  
+[Player Scene 8/30](coin-dash/player_scene_8_30/)  
+[Main Scene 9/4](coin-dash/main_scene_9_4)  
+[Main Scene 9/6](coin-dash/main_scene_9_6)  
+[Main Scene Finished 9/6](coin-dash/main_scene_9_6_fin)  
 
-### Space Rocks
+### Space Rocks  
+[Player Scene 9/9](space-rocks/player_scene_9_9) 
