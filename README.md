@@ -19,5 +19,6 @@ A template repository to publish games
 ## Projects  
 ### Project 1 - Coin Dash  
 [Project 1 Phase I](project-1/project-1-phase-I)  
+[Project 1 Phase II](project-1-phase-II)  
 
 ### Project 2 -
