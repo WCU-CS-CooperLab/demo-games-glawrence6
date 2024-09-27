@@ -17,6 +17,8 @@ A template repository to publish games
 
 ### 3D Mini Golft
 [Hole Scene 9/23](mini-golf/hole_scene_9_23)    
+[Hole Scene 9/25](mini-golf/hole_scene_9_25)  
+[UI Scene 9/25](mini-golf/ui_scene_9_25)  
 
 
 ## Projects  
