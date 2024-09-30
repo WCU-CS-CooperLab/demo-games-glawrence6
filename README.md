@@ -15,12 +15,14 @@ A template repository to publish games
 [Main Scene 9/13](space-rocks/sr_main_9_13)  
 [Main Scene 9/16](space-rocks/sr_main_9_16)  
 
-### 3D Mini Golft
+### 3D Mini Golf
 [Hole Scene 9/23](mini-golf/hole_scene_9_23)    
 [Hole Scene 9/25](mini-golf/hole_scene_9_25)  
 [UI Scene 9/25](mini-golf/ui_scene_9_25)  
 [Hole Scene 9/27](mini-golf/hole_scene_9_27)  
 
+### Jungle Jump
+[Player Scene 9/30](jungle-jump/player_scene_9_30)  
 
 ## Projects  
 ### Project 1 - Coin Dash  
