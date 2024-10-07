@@ -26,6 +26,7 @@ A template repository to publish games
 [Player Scene 9/30](jungle-jump/player_scene_9_30)  
 [Main Scene 10/2](jungle-jump/main_scene_10_2)  
 [Main Scene with Item 10/2](jungle-jump/main_scene_with_item_10_2)  
+[Level 01 Scene 10/4](jungle-jump/level_01_scene_10_4)  
 
 ## Projects  
 ### Project 1 - Coin Dash  
