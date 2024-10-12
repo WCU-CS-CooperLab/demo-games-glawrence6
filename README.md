@@ -37,4 +37,6 @@ A template repository to publish games
 
 ### Project 2 - Space Rocks  
 [Project 2 Phase I](project-2/project-2-phase-I)  
+[Project 2 Phase II](project-2/project-2-phase-II)  
+
 
