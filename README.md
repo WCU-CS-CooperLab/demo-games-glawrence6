@@ -31,8 +31,8 @@ A template repository to publish games
 [Level 01 Scene 10/9](jungle-jump/level_01_scene_10_9) 
 
 ### Infinite Flyer  
-[Test Scene 10/16](infinite-flyer/test_scene_10_16)  
-[Main Scene 10/18](infinite-flyer/main_scene_10_18)  
+[Test Scene 10/16](infinite_flyer/test_scene_10_16)  
+[Main Scene 10/18](infinite_flyer/main_scene_10_18)  
 
 ## Projects  
 ### Project 1 - Coin Dash  
