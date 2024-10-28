@@ -44,4 +44,8 @@ A template repository to publish games
 [Project 2 Phase I](project-2/project-2-phase-I)  
 [Project 2 Phase II](project-2/project-2-phase-II)  
 
+### Project 3 - Infinite Flyer  
+[Project 3 Phase I](project-3/project_3_phase_I)  
+[Project 3 Phase II]
+
 
