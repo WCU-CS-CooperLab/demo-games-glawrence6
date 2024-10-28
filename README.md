@@ -33,6 +33,7 @@ A template repository to publish games
 ### Infinite Flyer  
 [Test Scene 10/16](infinite_flyer/test_scene_10_16)  
 [Main Scene 10/18](infinite_flyer/main_scene_10_18)  
+[Main Scene 10/21](infinite_flyer/main_scene_10_21)  
 
 ## Projects  
 ### Project 1 - Coin Dash  
