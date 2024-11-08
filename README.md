@@ -49,6 +49,6 @@ A template repository to publish games
 [Project 3 Phase II](project-3/project_3_phase_II)  
 
 ### Team Project 1 - Stone Bridge Treasure Heist  
-[Phase II]
+[Phase II](team-project-1-phase-II)
 
 
