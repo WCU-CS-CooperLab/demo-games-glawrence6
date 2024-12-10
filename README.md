@@ -52,10 +52,10 @@ A template repository to publish games
 [Phase II](team-project-1-phase-II)
 
 ### Project 4 - Forge and Conquer  
-[Phase 1 - Mac]()  
-[Phase 1 - Windows]()  
+[Phase 1 - Mac](project-4/mac)  
+[Phase 1 - Windows](project-4/windows)  
 
 ### Team Project 2 - MMS  
-[Mac]()  
-[Windows]()
+[Mac](team-project-2-phase-II/mac)  
+[Windows](team-project-2-phase-II/windows)
 
