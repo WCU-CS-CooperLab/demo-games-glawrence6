@@ -51,4 +51,11 @@ A template repository to publish games
 ### Team Project 1 - Stone Bridge Treasure Heist  
 [Phase II](team-project-1-phase-II)
 
+### Project 4 - Forge and Conquer  
+[Phase 1 - Mac]()  
+[Phase 1 - Windows]()  
+
+### Team Project 2 - MMS  
+[Mac]()  
+[Windows]()
 
