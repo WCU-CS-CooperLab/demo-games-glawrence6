@@ -56,6 +56,6 @@ A template repository to publish games
 [Phase 1 - Windows](project-4/windows)  
 
 ### Team Project 2 - MMS  
-[Mac](team-project-2-phase-II/mac)  
-[Windows](team-project-2-phase-II/windows)
+[Mac](team-project-2-phase-II/mac/MMS.zip)  
+[Windows](team-project-2-phase-II/windows/MMS.zip)
 
