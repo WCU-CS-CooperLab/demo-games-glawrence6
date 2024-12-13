@@ -52,8 +52,8 @@ A template repository to publish games
 [Phase II](team-project-1-phase-II)
 
 ### Project 4 - Forge and Conquer  
-[Phase 1 - Mac](project-4/mac)  
-[Phase 1 - Windows](project-4/windows)  
+[Phase 1 - Mac](project-4/mac/Forge&#32;and&#32;Conquer.dmg)  
+[Phase 1 - Windows](project-4/windows/Forge&#32;and&#32;Conquer.exe)  
 
 ### Team Project 2 - MMS  
 [Mac](team-project-2-phase-II/mac/MMS.zip)  
